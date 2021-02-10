@@ -16,8 +16,7 @@ FOR players WHO want to play MEMORY CARD GAME, CONCENTRATION is a memory card ga
 UNLIKE other card games, for example like pokers games with a lot of rules, which is new player unfriendly, hard to memorize the rules at the first time and takes longer time play, this CONCENTRATE card game is easier and quick to get hands on, and at the same time it supported flexible number of players, there is no fix number of players.
 
 Features of game:
-1. Software initialize 54 cards in the systems equal randomly shuffled into 4 groups (56 cards into 6 groups with one group 11 cards if there are jokers included).
-2. User can select deck and hit the draw button.
-3. System would randomly draw two cards from the select deck, the card number in that deck would decrease by 2.
-4. System will automatically check if these 2 cards are same rank and same color. If so, this player will keep these cards store into his/her score board (can be store as 1 points or specific pair of cards) and keep select deck for drawing 2 cards, otherwise abandon the cards, and next player will start his/her game, same process.  
-5. Until the last pair (or 2 cards) be picked up, the system will end the game by showing the player name associated with maximum sores (if there is a tie, showing all players name with tie scores).
+1. Software initialize shuffled cards faced down put on the user interface in distributed rows.
+2. Select and flip two cards based on choice.
+3. Add scores to the player if cards are same rank and color, at same time these 2 cards be removed from interface, otherwise cards would be flipped back faced down and pass to another player.
+4. Until the last pair (or 2 cards) be flipped up, the system will end the game by showing the player name associated with maximum sores (if there is a tie, showing all players name with tie scores).
