@@ -20,3 +20,8 @@ Features of game:
 2. Select and flip two cards based on choice.
 3. Add scores to the player if cards are same rank and color, at same time these 2 cards be removed from interface, otherwise cards would be flipped back faced down and pass to another player.
 4. Until the last pair (or 2 cards) be flipped up, the system will end the game by showing the player name associated with maximum sores (if there is a tie, showing all players name with tie scores).
+5. Card history in last around, which means each player can see his/her which card (not paired) he or she has flipped with the last around but there is no position info for those cards.
+6. Chat function allows each player can chat through either chat box or they can turn on their video or voice.
+7. Ranking system, based on win/lost, player would receive corresponding credits, every sort amount of credits can give them a level.
+8. Change background of cards, players can change to any picture or color.
+9. Matching system, players can find players through their prefer locations, rankings. 
