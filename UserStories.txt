@@ -1,5 +1,5 @@
 User Stories:
-1. As a player, I want to choice any of two cards I want on the interface, so that I can play the game based on my personal strategy.
+1. As a player, I want to choice any of two cards I want on the interface, so that I can play the game based on my preference hardness.
 2. As a player, I want to change the color or picture I want on the the back of cards, so that I can play this game based on the background I like.
 3. As a player, I want to check other player's scores whenever I want, so that I can know the different between me and other players in order to see my probability of wining.
 4. As a player, I want to concede whenever if I don not want to continue the game, so that if I do not have time for the game or I got other important things to do I can leave.
@@ -8,4 +8,7 @@ User Stories:
 7. As a player, I want to receive prizes after I win the game so that I can feel sense of achievement.
 8. As a player, I want to play against different player according the geography location I choose, so that I can make and play with different friends around the world.
 9. As a player, I want to see rank of different players so that I can choose players which match my level.
-10. As a player, I want to rank up based on the prizes I receive from each games so that it can motivate me and I can treat each game seriously. 
+10. As a player, I want to rank up based on the prizes I receive from each games so that it can motivate me and I can treat each game seriously.
+11. As a player, I want to play the card game so that I can train and improve my memory skills.
+12. As a player, I want to choose how many cards would display on the interface so that I can choose the hard level I can handle.
+13. As a player, I want to keep track of my play so that at the end of the game I can see the dashboard of my history statistics playing result for future improvements. 
